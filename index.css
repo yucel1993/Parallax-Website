@@ -91,7 +91,7 @@ section {
     justify-content: center;
     align-items: center;
     padding: 2rem;
-    font-size: 2rem;
+    font-size: rem;
     background-color: black;
     border-radius: 32px 0 ;
     width: 900px;
@@ -118,7 +118,7 @@ section {
 
 section.picture div.tag h2.second,section.picture div.tag h2.fourth,section.picture div.tag h2.third{
     width: px;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 /* display: inline-block;
