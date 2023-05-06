@@ -51,6 +51,7 @@
     height: 10rem;
     max-width: 400px;
     
+    
 
 }
 
@@ -115,10 +116,11 @@ section {
     
 }
 
-section.picture div.tag h2.second,section.picture div.tag h2.fourth{
-    width: 2000px;
+section.picture div.tag h2.second,section.picture div.tag h2.fourth,section.picture div.tag h2.third{
+    width: px;
     font-size: 2rem;
 }
+
 /* display: inline-block;
 margin-top: 60%;
 margin-left: 30%; */
